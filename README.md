@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 
-💻 I'm a current Sophomore double majoring in **Computer Science** and **Artificial Intelligence** at **Drake University**.
+💻 I'm a current Junior double majoring in **Computer Science** and **Artificial Intelligence** at **Drake University**.
 
 🌱 I've learned and made projects in both **Python and Java**. As well, I'm currently learning **HTML, CSS, and JavaScript**. Currently working on a project involving **C# and SQL**.
 
