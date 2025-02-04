@@ -8,7 +8,7 @@
 
 ⚡ Technology has always been my passion—whether it’s software development, hardware, or even peripherals. I thrive on challenges and am constantly seeking to grow and improve both inside and outside of my IDEs.
 
-📫 Feel free to connect with me on **[LinkedIn](linkedin.com/in/jordanomartin)**, where you can also find my contact details, including email and phone.
+📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/jordanomartin/)**, where you can also find my contact details, including email and phone.
 
 💞️ I’m always open to new opportunities, collaborative projects, and engaging in dynamic learning environments.
 
