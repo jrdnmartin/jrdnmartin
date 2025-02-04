@@ -2,15 +2,16 @@
 
 ## 📖 About Me
 
-💻 I'm a current Junior double majoring in **Computer Science** and **Artificial Intelligence** at **Drake University**.
+💻 I am currently a Junior double majoring in **Computer Science** and **Artificial Intelligence** at **Drake University**.
 
-🌱 I've learned and made projects in both **Python and Java**. As well, I'm currently learning **HTML, CSS, and JavaScript**. Currently working on a project involving **C# and SQL**.
+🌱 I have experience building projects using **Python** and **Java**, and I am actively expanding my skills in **HTML, CSS, and JavaScript**. I’m currently working on a weather dashboard project leveraging **React.js** and **Tailwind CSS**.
 
-⚡ I've always been a computer lover, whether it's software or hardware, whether it's the computer or the peripherals. I enjoy learning and am always trying to push myself to be better, both in and out of my IDEs.
+⚡ Technology has always been my passion—whether it’s software development, hardware, or even peripherals. I thrive on challenges and am constantly seeking to grow and improve both inside and outside of my IDEs.
 
-📫 You can reach me directly through LinkedIn, which also has my other forms of contact (email and phone).
+📫 Feel free to connect with me on **[LinkedIn](linkedin.com/in/jordanomartin)**, where you can also find my contact details, including email and phone.
 
-💞️ Always open to new opportunities, collaborating, and diving into learning environments. 
+💞️ I’m always open to new opportunities, collaborative projects, and engaging in dynamic learning environments.
+
 
 
 <!---
