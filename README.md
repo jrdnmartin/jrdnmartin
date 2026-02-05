@@ -2,16 +2,51 @@
 
 ## 📖 About Me
 
-💻 I am currently a Junior double majoring in **Computer Science** and **Artificial Intelligence** at **Drake University**.
+# Hey, I'm Jordan 👋
 
-🌱 I have experience building projects using **Python** and **Java**, and I am actively expanding my skills in **HTML, CSS, and JavaScript**. I’m currently working on a weather dashboard project leveraging **React.js** and **Tailwind CSS**.
+I build real-world software systems at the intersection of **AI, data, and systems engineering** — with a focus on reliability, ethics, and user impact.
 
-⚡ Technology has always been my passion—whether it’s software development, hardware, or even peripherals. I thrive on challenges and am constantly seeking to grow and improve both inside and outside of my IDEs.
+I’m a computer science student with experience taking ideas from concept to production, working across backends, APIs, data pipelines, and user-facing interfaces.
 
-📫 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/jordanomartin/)**, where you can also find my contact details, including email and phone.
+---
 
-💞️ I’m always open to new opportunities, collaborative projects, and engaging in dynamic learning environments.
+## 🧠 What I’m Working On
+- Full-stack applications using **Flask, React, Docker, and Cloud infrastructure**
+- Computer vision & analytics systems designed for real operational constraints
+- Portfolio projects built with production quality in mind
 
+---
+
+## 🚀 Selected Projects
+- **Archeway** – A full-stack job tracking platform with analytics, workflow tools, and OAuth  
+- **Real-Time Analytics & Surveillance System** – Multi-camera detection, tracking, and privacy-aware processing  
+- **Production Web Integrations** – API payload builders, form automation, logging, and deployment for real clients
+
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, SQL  
+**Backend:** Flask, Node.js, REST APIs  
+**Frontend:** React, HTML, CSS  
+**Data & AI:** Pandas, Scikit-learn, Computer Vision  
+**Infrastructure:** Docker, GitHub Actions, Cloudflare, Linux  
+**Other:** OAuth, system design, logging & observability
+
+---
+
+## 💡 What I Care About
+- Building systems that hold up outside of demos  
+- Designing for real constraints: latency, privacy, failure modes  
+- Ethical and explainable AI-driven decision systems  
+- Clean architecture and long-term maintainability
+
+---
+
+## 🤝 Let’s Connect
+- Portfolio: **[Website](https://jrdnmartin.com/)**
+- LinkedIn: **[LinkedIn](https://www.linkedin.com/in/jrdnmartin/)**
+- Open to freelance, full-time roles, and meaningful collaborations
 
 
 <!---
