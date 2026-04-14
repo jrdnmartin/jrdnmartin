@@ -1,0 +1,63 @@
+<svg width="1600" height="520" viewBox="0 0 1600 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">System grid overview</title>
+  <desc id="desc">A technical dashboard showing four featured project modules with status and architecture tags.</desc>
+  <defs>
+    <linearGradient id="cardA" x1="64" y1="74" x2="760" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1523"/>
+      <stop offset="1" stop-color="#0A1320"/>
+    </linearGradient>
+    <linearGradient id="cardB" x1="840" y1="74" x2="1536" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1523"/>
+      <stop offset="1" stop-color="#0A1320"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1600" height="520" rx="22" fill="#07101A"/>
+  <path d="M0 58H1600" stroke="#143250"/>
+  <text x="60" y="38" fill="#94AFC8" font-size="14" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.16em">FEATURED SYSTEMS / MODULE OVERVIEW</text>
+
+  <rect x="52" y="84" width="720" height="170" rx="18" fill="url(#cardA)" stroke="#1F456A"/>
+  <rect x="828" y="84" width="720" height="170" rx="18" fill="url(#cardB)" stroke="#1F456A"/>
+  <rect x="52" y="284" width="720" height="170" rx="18" fill="url(#cardA)" stroke="#1F456A"/>
+  <rect x="828" y="284" width="720" height="170" rx="18" fill="url(#cardB)" stroke="#1F456A"/>
+
+  <text x="82" y="122" fill="#F8FAFC" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">01 / VenomX</text>
+  <text x="82" y="156" fill="#9DB5CC" font-size="16" font-family="Segoe UI, Arial, sans-serif">AI-powered penetration testing assistant</text>
+  <rect x="82" y="185" width="160" height="28" rx="14" fill="#0A2235" stroke="#27577F"/>
+  <text x="105" y="203" fill="#D9ECFB" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">PRIVATE DEPLOYMENT</text>
+  <rect x="254" y="185" width="127" height="28" rx="14" fill="#0B241A" stroke="#21603E"/>
+  <text x="281" y="203" fill="#DDF9E7" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">DOCKER STACK</text>
+  <path d="M82 228H430" stroke="#1C4F76"/>
+  <circle cx="448" cy="228" r="5" fill="#22D3EE"/>
+
+  <text x="858" y="122" fill="#F8FAFC" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">02 / Archeway</text>
+  <text x="858" y="156" fill="#9DB5CC" font-size="16" font-family="Segoe UI, Arial, sans-serif">Workflow-oriented full-stack job tracking platform</text>
+  <rect x="858" y="185" width="136" height="28" rx="14" fill="#0A2235" stroke="#27577F"/>
+  <text x="889" y="203" fill="#D9ECFB" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">FULL-STACK UX</text>
+  <rect x="1008" y="185" width="182" height="28" rx="14" fill="#0B241A" stroke="#21603E"/>
+  <text x="1033" y="203" fill="#DDF9E7" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">PROCESS STRUCTURE</text>
+  <path d="M858 228H1206" stroke="#1C4F76"/>
+  <circle cx="1224" cy="228" r="5" fill="#22C55E"/>
+
+  <text x="82" y="322" fill="#F8FAFC" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">03 / Restaurant Surveillance AI System</text>
+  <text x="82" y="356" fill="#9DB5CC" font-size="16" font-family="Segoe UI, Arial, sans-serif">Overhead-camera tracking tuned for difficult operational conditions</text>
+  <rect x="82" y="385" width="132" height="28" rx="14" fill="#0A2235" stroke="#27577F"/>
+  <text x="114" y="403" fill="#D9ECFB" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">YOLO</text>
+  <rect x="226" y="385" width="152" height="28" rx="14" fill="#0A2235" stroke="#27577F"/>
+  <text x="257" y="403" fill="#D9ECFB" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">DEEPSORT</text>
+  <rect x="390" y="385" width="118" height="28" rx="14" fill="#0B241A" stroke="#21603E"/>
+  <text x="425" y="403" fill="#DDF9E7" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">REID</text>
+  <path d="M82 428H560" stroke="#1C4F76"/>
+  <circle cx="578" cy="428" r="5" fill="#22D3EE"/>
+
+  <text x="858" y="322" fill="#F8FAFC" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">04 / IllinoisDrivers</text>
+  <text x="858" y="356" fill="#9DB5CC" font-size="16" font-family="Segoe UI, Arial, sans-serif">Scalable insurance SEO platform with programmatic page generation</text>
+  <rect x="858" y="385" width="162" height="28" rx="14" fill="#0A2235" stroke="#27577F"/>
+  <text x="886" y="403" fill="#D9ECFB" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">WORDPRESS CORE</text>
+  <rect x="1032" y="385" width="124" height="28" rx="14" fill="#0B241A" stroke="#21603E"/>
+  <text x="1061" y="403" fill="#DDF9E7" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">SCHEMA</text>
+  <rect x="1168" y="385" width="184" height="28" rx="14" fill="#0A2235" stroke="#27577F"/>
+  <text x="1194" y="403" fill="#D9ECFB" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">PROGRAMMATIC SEO</text>
+  <path d="M858 428H1350" stroke="#1C4F76"/>
+  <circle cx="1368" cy="428" r="5" fill="#22C55E"/>
+</svg>
