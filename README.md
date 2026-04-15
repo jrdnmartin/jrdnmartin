@@ -1,126 +1,160 @@
 <p align="left">
-  <img src="./assets/hero.svg" alt="Jordan M system hero" width="100%" />
+  <img src="./assets/hero.svg" alt="Jordan M hero" width="100%" />
 </p>
 
 <p align="left">
-  <img src="./assets/status-strip.svg" alt="System status strip" width="100%" />
+  <img src="./assets/status-strip.svg" alt="Status strip" width="100%" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Drake_University-0b1422?style=flat-square&logoColor=white" alt="Drake University" />
+  <img src="https://img.shields.io/badge/Computer_Science_%2B_AI-0b1422?style=flat-square&logoColor=white" alt="Computer Science and AI" />
+  <img src="https://img.shields.io/badge/Graduating-May_2026-0b1422?style=flat-square&logoColor=white" alt="Graduating May 2026" />
 </p>
 
 ## Identity
 
+<p align="left">
+  <img src="./assets/section-header.svg" alt="" width="100%" />
+</p>
+
 ```txt
-jordan@control-surface:~$ whoami
-Jordan M
-
-jordan@control-surface:~$ context
+jordan@systems:~$ profile
 builder / production-minded / systems-focused
-Drake University / Computer Science + AI
-graduating / May 2026
 
-jordan@control-surface:~$ domains --active
+jordan@systems:~$ active-domains
 AI systems
 infrastructure
 cybersecurity
 automation
-scalable applied software
 ```
 
-<p align="left">
-  Shipping systems built for real constraints, operational clarity, and commercial use.
-</p>
+I build applied software systems with a bias toward deployment, operational clarity, and work that matters outside a demo.
 
 <p align="left">
-  <img src="./assets/footer-divider.svg" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## Featured Systems
 
 <p align="left">
-  <img src="./assets/project-grid.svg" alt="Featured systems control grid" width="100%" />
+  <img src="./assets/section-header.svg" alt="" width="100%" />
 </p>
 
-<p align="left">
-  The work spans private AI infrastructure, workflow software, computer vision in operational environments, and scalable client web systems.
-</p>
+### VenomX
+
+`AI systems` `cybersecurity` `private deployment`
+
+- What it is: an AI-powered penetration testing assistant built for internal security workflows.
+- Technical core: `vLLM`, `OpenWebUI`, `pgvector`, `Redis`, modular Docker architecture.
+- Operational value: keeps sensitive workflows local while increasing speed and structure for security work.
+
+### Archeway
+
+`full-stack` `workflow system` `product design`
+
+- What it is: a job tracking platform built around the idea that progress should be visible and repeatable.
+- Technical core: workflow-oriented full-stack architecture with a strong usability focus.
+- Operational value: turns application tracking from scattered effort into a system people can actually maintain.
+
+### Restaurant Surveillance AI System
+
+`computer vision` `tracking` `real environments`
+
+- What it is: an overhead-camera vision pipeline for operational environments.
+- Technical core: `YOLO`, `DeepSORT`, `ReID`, tuned for occlusion, identity ambiguity, and movement complexity.
+- Operational value: supports reliable tracking where clean conditions do not exist.
+
+### IllinoisDrivers
+
+`client system` `SEO infrastructure` `web scale`
+
+- What it is: a scalable insurance SEO platform built for multi-state growth.
+- Technical core: WordPress custom theme, programmatic page generation, schema, templating, performance tuning.
+- Operational value: creates maintainable city-page infrastructure designed for ranking and scale.
+
+<details>
+<summary>Deeper Technical Notes</summary>
+
+- VenomX is shaped around local inference and private deployment constraints, not hosted-AI convenience.
+- Archeway is product work disguised as workflow engineering: visibility, repeatability, and friction reduction matter as much as features.
+- The surveillance system is built around the ugly cases: occlusion, identity drift, and real movement patterns.
+- IllinoisDrivers is infrastructure for content operations, not just a set of pages.
+
+</details>
 
 <p align="left">
-  <img src="./assets/footer-divider.svg" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## Current Vector
 
 <p align="left">
-  <img src="./assets/current-vector.svg" alt="Current vector and operating direction" width="100%" />
+  <img src="./assets/section-header.svg" alt="" width="100%" />
 </p>
 
-<p align="left">
-  Moving toward applied systems that combine strong architecture, deployment discipline, and business relevance.
-</p>
+- Applied systems with real operational value.
+- Production-ready architectures over disposable prototypes.
+- AI and automation used where they create leverage, not noise.
+- Software that is commercially useful, technically durable, and worth maintaining.
+
+<details>
+<summary>Currently Building Toward</summary>
+
+- private AI infrastructure
+- stronger deployment and systems rigor
+- commercially useful software with clear operational fit
+
+</details>
 
 <p align="left">
-  <img src="./assets/footer-divider.svg" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## Stack
 
 <p align="left">
-  <img src="./assets/stack-clusters.svg" alt="Technology stack clusters" width="100%" />
+  <img src="./assets/section-header.svg" alt="" width="100%" />
 </p>
 
-### Systems
+**Systems**
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1726?style=flat-square&logo=python&logoColor=7dd3fc" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1726?style=flat-square&logo=javascript&logoColor=facc15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Flask-0d1726?style=flat-square&logo=flask&logoColor=e2e8f0" alt="Flask" />
-  <img src="https://img.shields.io/badge/React_Native-0d1726?style=flat-square&logo=react&logoColor=22d3ee" alt="React Native" />
-</p>
+`Python` `JavaScript` `Flask` `React Native`
 
-### AI
+**AI**
 
-<p>
-  <img src="https://img.shields.io/badge/LLM_Systems-0b1e2d?style=flat-square&logoColor=white" alt="LLM Systems" />
-  <img src="https://img.shields.io/badge/RAG-0b1e2d?style=flat-square&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Vector_Databases-0b1e2d?style=flat-square&logoColor=white" alt="Vector Databases" />
-  <img src="https://img.shields.io/badge/Data_Modeling-0b1e2d?style=flat-square&logoColor=white" alt="Data Modeling" />
-</p>
+`LLM systems` `RAG` `vector databases` `data analysis` `modeling`
 
-### Infrastructure
+**Infrastructure**
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-102338?style=flat-square&logo=docker&logoColor=38bdf8" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS_EC2-102338?style=flat-square&logo=amazonaws&logoColor=f59e0b" alt="AWS EC2" />
-  <img src="https://img.shields.io/badge/Tailscale-102338?style=flat-square&logo=tailscale&logoColor=60a5fa" alt="Tailscale" />
-  <img src="https://img.shields.io/badge/Deployment_Workflows-102338?style=flat-square&logoColor=white" alt="Deployment Workflows" />
-</p>
+`Docker` `AWS EC2` `Tailscale` `deployment workflows`
 
-### Product / Web
+**Product / Web**
 
-<p>
-  <img src="https://img.shields.io/badge/WordPress-0f1f30?style=flat-square&logo=wordpress&logoColor=e2e8f0" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Structured_Content-0f1f30?style=flat-square&logoColor=white" alt="Structured Content" />
-  <img src="https://img.shields.io/badge/SEO_Systems-0f1f30?style=flat-square&logoColor=white" alt="SEO Systems" />
-  <img src="https://img.shields.io/badge/Operational_Design-0f1f30?style=flat-square&logoColor=white" alt="Operational Design" />
-</p>
+`WordPress` `structured content architecture` `schema` `SEO systems`
 
 <p align="left">
-  <img src="./assets/footer-divider.svg" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## How I Build
 
+<p align="left">
+  <img src="./assets/section-header.svg" alt="" width="100%" />
+</p>
+
 - Build for use, not presentation.
 - Treat architecture as part of the product.
-- Optimize for clarity under real constraints.
-- Use AI and automation where they create leverage.
+- Design for real constraints early.
+- Use automation where it meaningfully compounds output.
 
 <p align="left">
-  <img src="./assets/footer-divider.svg" alt="" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
 </p>
 
 ## Contact
 
-<p>
+<p align="left">
   <a href="https://jrdnmartin.com/">
     <img src="https://img.shields.io/badge/Portfolio-08111f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
@@ -129,9 +163,7 @@ scalable applied software
   </a>
 </p>
 
-<p align="left">
-  Applied AI, infrastructure, cybersecurity workflows, and automation systems are the center of gravity.
-</p>
+Applied AI, infrastructure, cybersecurity workflows, and automation systems are where I do my best work.
 
 <!--
 jrdnmartin/jrdnmartin is a special repository because its README.md appears on your GitHub profile.

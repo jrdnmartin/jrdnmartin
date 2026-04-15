@@ -1,0 +1,11 @@
+<svg width="1600" height="92" viewBox="0 0 1600 92" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Section header accent</title>
+  <desc id="desc">A modular section accent for profile sections.</desc>
+  <rect width="1600" height="92" rx="18" fill="#08111D"/>
+  <path d="M48 46H346" stroke="#1D4061" stroke-width="2"/>
+  <rect x="372" y="30" width="124" height="32" rx="16" fill="#0A1829" stroke="#255A83"/>
+  <text x="398" y="50" fill="#A8D8F5" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.18em">SECTION</text>
+  <path d="M518 46H612" stroke="#22D3EE" stroke-width="2"/>
+  <circle cx="636" cy="46" r="6" fill="#3B82F6"/>
+  <path d="M660 46H1552" stroke="#1D4061" stroke-width="2"/>
+</svg>

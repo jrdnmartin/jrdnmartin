@@ -1,0 +1,10 @@
+<svg width="1600" height="74" viewBox="0 0 1600 74" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Divider</title>
+  <desc id="desc">A minimal divider with signal nodes.</desc>
+  <rect width="1600" height="74" rx="16" fill="#07101A"/>
+  <path d="M48 37H708" stroke="#1D4061" stroke-width="2"/>
+  <circle cx="742" cy="37" r="6" fill="#22D3EE"/>
+  <path d="M760 37H840" stroke="#3B82F6" stroke-width="2"/>
+  <circle cx="858" cy="37" r="6" fill="#10B981"/>
+  <path d="M876 37H1552" stroke="#1D4061" stroke-width="2"/>
+</svg>

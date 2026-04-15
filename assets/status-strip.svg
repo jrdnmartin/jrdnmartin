@@ -1,32 +1,23 @@
-<svg width="1600" height="130" viewBox="0 0 1600 130" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1600" height="124" viewBox="0 0 1600 124" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Status strip</title>
-  <desc id="desc">A bridge module showing mode, status, vector, and focus.</desc>
-  <defs>
-    <linearGradient id="strip" x1="0" y1="0" x2="1600" y2="130" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#07101A"/>
-      <stop offset="1" stop-color="#0A1422"/>
-    </linearGradient>
-  </defs>
-  <rect width="1600" height="130" rx="22" fill="url(#strip)"/>
-  <path d="M46 65H280" stroke="#234A6D"/>
-  <path d="M1320 65H1554" stroke="#234A6D"/>
-  <rect x="300" y="32" width="210" height="66" rx="18" fill="#091828" stroke="#245981"/>
-  <text x="326" y="56" fill="#90B3D2" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.18em">MODE</text>
-  <text x="326" y="82" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">BUILDING</text>
-  <circle cx="476" cy="64" r="6" fill="#22D3EE"/>
+  <desc id="desc">A compact status strip bridging the hero and body.</desc>
+  <rect width="1600" height="124" rx="20" fill="#07101A"/>
+  <rect x="92" y="28" width="284" height="68" rx="18" fill="#091828" stroke="#255A83"/>
+  <text x="118" y="54" fill="#92B5D4" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.16em">MODE</text>
+  <text x="118" y="80" fill="#F8FAFC" font-size="23" font-family="Segoe UI, Arial, sans-serif" font-weight="700">BUILDING</text>
+  <circle cx="344" cy="62" r="6" fill="#22D3EE"/>
 
-  <rect x="538" y="32" width="210" height="66" rx="18" fill="#091828" stroke="#245981"/>
-  <text x="564" y="56" fill="#90B3D2" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.18em">STATUS</text>
-  <text x="564" y="82" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">ONLINE</text>
-  <circle cx="714" cy="64" r="6" fill="#10B981"/>
+  <rect x="404" y="28" width="284" height="68" rx="18" fill="#091828" stroke="#255A83"/>
+  <text x="430" y="54" fill="#92B5D4" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.16em">STATUS</text>
+  <text x="430" y="80" fill="#F8FAFC" font-size="23" font-family="Segoe UI, Arial, sans-serif" font-weight="700">ONLINE</text>
+  <circle cx="656" cy="62" r="6" fill="#10B981"/>
 
-  <rect x="776" y="32" width="210" height="66" rx="18" fill="#091828" stroke="#245981"/>
-  <text x="802" y="56" fill="#90B3D2" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.18em">VECTOR</text>
-  <text x="802" y="82" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">APPLIED SYSTEMS</text>
+  <rect x="716" y="28" width="360" height="68" rx="18" fill="#091828" stroke="#255A83"/>
+  <text x="742" y="54" fill="#92B5D4" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.16em">FOCUS</text>
+  <text x="742" y="80" fill="#F8FAFC" font-size="23" font-family="Segoe UI, Arial, sans-serif" font-weight="700">APPLIED SYSTEMS</text>
 
-  <rect x="1014" y="32" width="286" height="66" rx="18" fill="#091828" stroke="#245981"/>
-  <text x="1040" y="56" fill="#90B3D2" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.18em">FOCUS</text>
-  <text x="1040" y="82" fill="#F8FAFC" font-size="22" font-family="Segoe UI, Arial, sans-serif" font-weight="700">PRODUCTION SOFTWARE</text>
-  <path d="M1260 65H1284" stroke="#245981"/>
-  <circle cx="1298" cy="65" r="6" fill="#3B82F6"/>
+  <rect x="1104" y="28" width="404" height="68" rx="18" fill="#091828" stroke="#255A83"/>
+  <text x="1130" y="54" fill="#92B5D4" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.16em">VECTOR</text>
+  <text x="1130" y="80" fill="#F8FAFC" font-size="23" font-family="Segoe UI, Arial, sans-serif" font-weight="700">PRODUCTION-MINDED</text>
+  <circle cx="1478" cy="62" r="6" fill="#3B82F6"/>
 </svg>

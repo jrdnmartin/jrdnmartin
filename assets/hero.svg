@@ -1,90 +1,66 @@
-<svg width="1600" height="620" viewBox="0 0 1600 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1600" height="540" viewBox="0 0 1600 540" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Jordan M hero</title>
-  <desc id="desc">A premium engineering control-surface hero with signal lines, telemetry panels, and applied systems branding.</desc>
+  <desc id="desc">A custom GitHub profile hero with a system-console aesthetic.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="620" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#060C16"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050B15"/>
       <stop offset="0.55" stop-color="#08111F"/>
-      <stop offset="1" stop-color="#091827"/>
+      <stop offset="1" stop-color="#0A1625"/>
     </linearGradient>
-    <linearGradient id="cyan" x1="1060" y1="72" x2="1470" y2="270" gradientUnits="userSpaceOnUse">
+    <linearGradient id="accent" x1="1110" y1="82" x2="1455" y2="286" gradientUnits="userSpaceOnUse">
       <stop stop-color="#22D3EE"/>
-      <stop offset="1" stop-color="#3B82F6"/>
-    </linearGradient>
-    <linearGradient id="teal" x1="1090" y1="330" x2="1470" y2="520" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#10B981"/>
+      <stop offset="0.55" stop-color="#3B82F6"/>
       <stop offset="1" stop-color="#14B8A6"/>
     </linearGradient>
-    <linearGradient id="violet" x1="1250" y1="145" x2="1455" y2="265" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#60A5FA"/>
-      <stop offset="1" stop-color="#8B5CF6"/>
+    <linearGradient id="accent2" x1="1032" y1="322" x2="1450" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10B981"/>
+      <stop offset="1" stop-color="#60A5FA"/>
     </linearGradient>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" stroke="#18314A" stroke-opacity="0.32"/>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#18324D" stroke-opacity="0.32"/>
     </pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <rect width="1600" height="620" rx="28" fill="url(#bg)"/>
-  <rect width="1600" height="620" rx="28" fill="url(#grid)"/>
+  <rect width="1600" height="540" rx="26" fill="url(#bg)"/>
+  <rect width="1600" height="540" rx="26" fill="url(#grid)"/>
 
-  <path d="M56 88H1544" stroke="#163450"/>
-  <path d="M56 532H1544" stroke="#163450"/>
-  <path d="M84 56V564" stroke="#163450"/>
-  <path d="M1516 56V564" stroke="#163450"/>
+  <path d="M56 76H1544" stroke="#173653"/>
+  <path d="M56 470H1544" stroke="#173653"/>
+  <path d="M84 48V492" stroke="#173653"/>
+  <path d="M1516 48V492" stroke="#173653"/>
 
-  <rect x="94" y="82" width="286" height="34" rx="17" fill="#091727" stroke="#234F78"/>
-  <circle cx="120" cy="99" r="5" fill="#10B981"/>
-  <text x="138" y="104" fill="#9CC7E7" font-size="14" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.18em">ENGINEERING CONTROL SURFACE</text>
+  <rect x="96" y="84" width="270" height="32" rx="16" fill="#091727" stroke="#22537C"/>
+  <circle cx="120" cy="100" r="5" fill="#10B981"/>
+  <text x="138" y="105" fill="#9FC6E3" font-size="13" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.16em">SYSTEM PROFILE / ACTIVE</text>
 
-  <text x="110" y="175" fill="#7DD3FC" font-size="14" font-family="Consolas, Menlo, monospace" letter-spacing="0.22em">JORDAN_M / ACTIVE PROFILE</text>
-  <text x="110" y="268" fill="#F8FAFC" font-size="92" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Jordan M</text>
-  <text x="112" y="326" fill="#B6E8FF" font-size="24" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.12em">AI SYSTEMS / INFRASTRUCTURE / CYBERSECURITY / AUTOMATION</text>
+  <text x="110" y="170" fill="#7DD3FC" font-size="14" font-family="Consolas, Menlo, monospace" letter-spacing="0.22em">JORDAN_M / BUILDING APPLIED SYSTEMS</text>
+  <text x="110" y="254" fill="#F8FAFC" font-size="84" font-family="Segoe UI, Arial, sans-serif" font-weight="700">Jordan M</text>
+  <text x="112" y="310" fill="#B6E8FF" font-size="22" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.12em">AI SYSTEMS / INFRASTRUCTURE / CYBERSECURITY / AUTOMATION</text>
+  <text x="112" y="374" fill="#8FA8BF" font-size="23" font-family="Segoe UI, Arial, sans-serif">Production-minded builder working where software meets operations.</text>
 
-  <text x="112" y="398" fill="#8FA8BF" font-size="24" font-family="Segoe UI, Arial, sans-serif">Building applied software systems with operational rigor,</text>
-  <text x="112" y="434" fill="#8FA8BF" font-size="24" font-family="Segoe UI, Arial, sans-serif">deployment discipline, and commercial awareness.</text>
+  <rect x="112" y="412" width="146" height="34" rx="17" fill="#0A1829" stroke="#255A83"/>
+  <text x="137" y="434" fill="#E3EFFB" font-size="13" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">STATUS / ONLINE</text>
+  <rect x="272" y="412" width="150" height="34" rx="17" fill="#0A1829" stroke="#255A83"/>
+  <text x="299" y="434" fill="#E3EFFB" font-size="13" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">MODE / BUILD</text>
 
-  <rect x="112" y="474" width="156" height="36" rx="18" fill="#0A1829" stroke="#28597F"/>
-  <text x="138" y="497" fill="#E5F0FB" font-size="14" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">STATUS / ONLINE</text>
-  <rect x="282" y="474" width="170" height="36" rx="18" fill="#0A1829" stroke="#28597F"/>
-  <text x="308" y="497" fill="#E5F0FB" font-size="14" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">MODE / BUILDING</text>
-  <rect x="466" y="474" width="202" height="36" rx="18" fill="#0A1829" stroke="#28597F"/>
-  <text x="492" y="497" fill="#E5F0FB" font-size="14" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">FOCUS / PRODUCTION</text>
+  <rect x="1040" y="86" width="414" height="170" rx="22" fill="#081320" stroke="#22537C"/>
+  <text x="1068" y="122" fill="#96B7D6" font-size="13" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.16em">SIGNAL PANEL</text>
+  <rect x="1068" y="146" width="358" height="16" rx="8" fill="#0D2235"/>
+  <rect x="1068" y="182" width="248" height="14" rx="7" fill="url(#accent)"/>
+  <rect x="1068" y="212" width="302" height="14" rx="7" fill="#173653"/>
+  <rect x="1068" y="242" width="182" height="14" rx="7" fill="#173653"/>
 
-  <rect x="1036" y="86" width="420" height="214" rx="22" fill="#08121F" stroke="#21537B"/>
-  <text x="1064" y="122" fill="#92B3D3" font-size="13" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.18em">SIGNAL MATRIX</text>
-  <rect x="1064" y="144" width="364" height="18" rx="9" fill="#0D2235"/>
-  <rect x="1064" y="182" width="246" height="14" rx="7" fill="url(#cyan)" filter="url(#glow)"/>
-  <rect x="1064" y="212" width="308" height="14" rx="7" fill="#163450"/>
-  <rect x="1064" y="242" width="182" height="14" rx="7" fill="#163450"/>
-  <rect x="1328" y="177" width="100" height="24" rx="12" fill="#0B1F31" stroke="#255A82"/>
-  <text x="1350" y="193" fill="#DCF0FF" font-size="12" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.08em">HIGH</text>
+  <rect x="998" y="300" width="456" height="148" rx="22" fill="#081320" stroke="#1E6070"/>
+  <text x="1026" y="336" fill="#96B7D6" font-size="13" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.16em">CURRENT SIGNALS</text>
+  <path d="M1028 366H1298" stroke="url(#accent2)" stroke-width="2"/>
+  <circle cx="1320" cy="366" r="6" fill="#22D3EE"/>
+  <path d="M1028 398H1298" stroke="url(#accent2)" stroke-width="2"/>
+  <circle cx="1320" cy="398" r="6" fill="#3B82F6"/>
+  <path d="M1028 430H1298" stroke="url(#accent2)" stroke-width="2"/>
+  <circle cx="1320" cy="430" r="6" fill="#10B981"/>
 
-  <rect x="1000" y="336" width="476" height="170" rx="22" fill="#08121F" stroke="#1E5F70"/>
-  <text x="1028" y="372" fill="#92B3D3" font-size="13" font-family="Segoe UI, Arial, sans-serif" letter-spacing="0.18em">CURRENT SIGNALS</text>
-  <text x="1028" y="413" fill="#F1F5F9" font-size="22" font-family="Consolas, Menlo, monospace">private AI stacks</text>
-  <text x="1028" y="447" fill="#F1F5F9" font-size="22" font-family="Consolas, Menlo, monospace">security workflows</text>
-  <text x="1028" y="481" fill="#F1F5F9" font-size="22" font-family="Consolas, Menlo, monospace">automation systems</text>
-  <path d="M1308 405H1414" stroke="#1E5F70"/>
-  <circle cx="1428" cy="405" r="6" fill="#22D3EE"/>
-  <path d="M1308 439H1414" stroke="#1E5F70"/>
-  <circle cx="1428" cy="439" r="6" fill="#3B82F6"/>
-  <path d="M1308 473H1414" stroke="#1E5F70"/>
-  <circle cx="1428" cy="473" r="6" fill="#10B981"/>
-
-  <path d="M912 116H1002" stroke="#234F78"/>
-  <path d="M874 421H984" stroke="#234F78"/>
-  <path d="M680 492H972" stroke="#234F78"/>
-  <circle cx="988" cy="492" r="5" fill="#22D3EE"/>
-
-  <rect x="1490" y="90" width="34" height="430" rx="17" fill="#091727" stroke="#234F78"/>
-  <rect x="1500" y="128" width="14" height="98" rx="7" fill="url(#cyan)"/>
-  <rect x="1500" y="244" width="14" height="54" rx="7" fill="url(#violet)"/>
-  <rect x="1500" y="316" width="14" height="158" rx="7" fill="url(#teal)"/>
+  <rect x="1490" y="88" width="34" height="356" rx="17" fill="#091727" stroke="#22537C"/>
+  <rect x="1500" y="122" width="14" height="90" rx="7" fill="url(#accent)"/>
+  <rect x="1500" y="228" width="14" height="44" rx="7" fill="#8B5CF6"/>
+  <rect x="1500" y="288" width="14" height="124" rx="7" fill="#10B981"/>
 </svg>
